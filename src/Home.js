@@ -9,8 +9,8 @@ class Home extends React.Component {
       <div className="Home">
         <Helmet>
           <title>Hamza | Home</title>
-          <meta name='description' content='App Home' />
-          <meta name='og:description' content='App Home' />
+          <meta name='description' content='Home: of the Hamza' />
+          <meta name='og:description' content='Home: of the Hamza' />
           <meta name='og:title' content='Home: Hamza' />
         </Helmet>
         <div className="Home-header">
